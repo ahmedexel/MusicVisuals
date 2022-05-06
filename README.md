@@ -42,6 +42,7 @@ However breaking down the project into simpler parts our proudest part were:-
 - Malek favoured the disco-ball and found them the most appealing.
 - Riley selected  the stickman and thought was the most intriguing.
 - Ahmed went for the speakers and considered them the most important part.
+
 There is biasness in our choices as we all chose what we individually implemented.
 
 
