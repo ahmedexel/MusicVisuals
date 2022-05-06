@@ -30,7 +30,7 @@ Upon reflectong on the project we believe there was room for improvement
 
 
 # Instructions
-
+run Main.java
 # How it works
 
 # What I am most proud of in the 
@@ -114,3 +114,15 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 |Some stuff | Some more stuff in this column |
 
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

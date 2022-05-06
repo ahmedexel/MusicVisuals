@@ -10,7 +10,7 @@ public class Main
 	public void startUI()
 	{
 		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new MyVisual());		
+        processing.core.PApplet.runSketch( a, new circle1());		
 	}
 
 	public static void main(String[] args)
@@ -18,4 +18,5 @@ public class Main
 		Main main = new Main();
 		main.startUI();			
 	}
+
 }
