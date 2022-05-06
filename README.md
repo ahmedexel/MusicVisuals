@@ -17,16 +17,16 @@ Student Number: C20439752, C20426892, D20124835
 This is a visual program that uses ac dc touch too much to create a reactive image.
 
 We split the creating of the program into individual parts so that each one of us had an input the project. 
-Malek created the disco-ball refining the standards.
-Riley added the stickman emblishing the aesthetics.
-Ahmed implemented the speakers building a solid a foundation. 
+- Malek created the disco-ball refining the standards.
+- Riley added the stickman emblishing the aesthetics.
+- Ahmed implemented the speakers building a solid a foundation. 
 Therefore we have all worked on this great project .
 
 Upon reflectong on the project we believe there was room for improvement
-Time management was mas a massive hindrance to us as we delayed working on this project for time.
-We all genuiniely believe that if we were diligant we would have did better.
-There were many additional features we wanted to add such as a background image, extra reactive elements.
-The Overall aesthetics of the visuals is good but there's a scope for improvement.
+1. Time management was mas a massive hindrance to us as we delayed working on this project for time.
+1. We all genuiniely believe that if we were diligant we would have did better.
+1. There were many additional features we wanted to add such as a background image, extra reactive elements.
+1. The Overall aesthetics of the visuals is good but there's a scope for improvement.
 
 
 # Instructions
