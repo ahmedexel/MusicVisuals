@@ -35,14 +35,14 @@ Upon reflectong on the project we believe there was room for improvement
 
 # What I am most proud of in the 
 
-The final product was our proudest part mainly because it was a releif get the project done.
-Finishing the project sufficed as a major factor for delaying the project was it's diffuculty to conclude.
+The final product was our proudest part mainly because it was a relief get the project done.
+Finishing the project sufficed as a major factor for delaying the project as it seemed extremely difficult at first.
 
 However breaking down the project into simpler parts our proudest part were:-
 - Malek favoured the disco-ball and found them the most appealing.
 - Riley selected  the stickman and thought was the most intriguing.
 - Ahmed went for the speakers and considered them the most important part.
-There is  biasness in our choices as we all chose what we individually implemented.
+There is biasness in our choices as we all chose what we individually implemented.
 
 
 # Markdown Tutorial
