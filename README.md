@@ -2,7 +2,7 @@
 
 Name: Ahmed Alsaleh, Malek Tumi, Riley Hogarty
 
-Student Number: C20439752, c20426892, D20124835
+Student Number: C20439752, C20426892, D20124835
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -12,6 +12,22 @@ Student Number: C20439752, c20426892, D20124835
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+
+
+This is a visual program that uses ac dc touch too much to create a reactive image.
+
+We split the creating of the program into individual parts so that each one of us had an input the project. 
+
+Malek decided to create the discoball
+Riley added the stickman
+Ahmed implemented the speakers
+therefore we worked on this project together 
+
+
+Upon reflectong on the project we believe there was room for improvement.
+Our time management was extremely poor as we delayed working on this project for time.
+There were many additional features we wanted to add such as a background image, extra reactive elements, 
+
 
 # Instructions
 
