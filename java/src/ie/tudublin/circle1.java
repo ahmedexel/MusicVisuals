@@ -15,7 +15,6 @@ public class circle1 extends PApplet {
     public void settings(){
 
         fullScreen();
-        //imagebackground = loadImage("/Users/dangjumhan/Desktop/OOPS LAB/OOP-2021-2022/images/WechatIMG136.jpeg");
     }
 
 
@@ -39,41 +38,41 @@ public class circle1 extends PApplet {
 
 
     public void draw(){
-
+        background(30);
+        
         //image(imagebackground, 0, 0);
         noStroke();
         fill(0, 5);
-        rect(0,0,width,height);
+        
         pushMatrix();
-        translate(width/2, height/2);
-        rotate(radians(frameCount % 360 * 2));
-    for(int j = 0; j < 200; j++) {
-
-      if(song.mix.get(j)*200 > 50) {
-        stroke(56,50,100);
-      }
-      else {
-        stroke(123,100,100);
-      }
-
-      line(cos(j)*150, sin(j)*150, cos(j)*abs(song.left.get(j))*150 + cos(j)*150, sin(j)*abs(song.right.get(j))*150 + sin(j)*150);
-    }
-    for(int k = 360; k > 0; k--) {
-
-
-      if(song.mix.get(k)*200 > 25) {
-        stroke(70,100,100);
-      }
-      else {
-        stroke(69,100,100);
-      }
-
-
-      line(cos(k)*50, sin(k)*50, cos(k)*abs(song.right.get(k))*200 + cos(k)*50, sin(k)*abs(song.left.get(k))*200 + sin(k)*50);
-    }
+        //translate(width/2, height/2);
+        //rotate(radians(frameCount % 360 * 2));
+        body();
 
   popMatrix();
 
+    
+    
     }
+    void body() {
+    int r = 40;
+    stroke(70);
+    //the head
+    circle(650, 480, r*2);
 
+    //the body
+    line(650, 650, 650, 500 + r/2);
+
+    //the arms
+    line(650, 575, 600, 600);
+    line(650, 575, 700, 600);
+       
+    // the hands
+    line(600, 600, 550, 550);
+    line(700, 600, 750, 550);
+    
+    // the legs
+    line(650, 650, 600, 750);
+    line(650, 650, 700, 750);
+    }
 }
